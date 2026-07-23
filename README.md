@@ -106,8 +106,4 @@ Sanitized screenshots and mockups are stored in:
 - Không tuyên bố hệ thống đã được xây dựng hoặc triển khai lên môi trường production.
 - Complete User Acceptance Testing (UAT) chưa được xác nhận hoàn tất — nếu UAT logs/report có sẵn, vui lòng cung cấp để cập nhật trạng thái.
 - Không có số liệu post‑go‑live, doanh thu hoặc conversion rate được tạo hoặc ghi nhận trong tài liệu nguồn.
-- Một số thông tin (vd: target performance 200ms, inventory policy, supported browsers, rounding/currency rules, security/compliance scope, accessibility conformance level) được ghi là "Cần xác nhận" và yêu cầu stakeholder / technical confirmation trước khi coi là finalized.
-
----
-
-Nếu bạn muốn tôi cập nhật README theo phong cách khác (Tiếng Anh hoàn toàn, thêm badges, rút gọn, hoặc include toc), hãy cho biết tùy chọn bạn muốn.
+- Một số thông tin (vd: target performance 200ms, inventory policy, supported browsers, rounding/currency rules, security/compliance scope, accessibility conformance level) được ghi là "Cần xác nhận" và yêu cầu stakeholder / technical confirmation trước khi coi là finalized
